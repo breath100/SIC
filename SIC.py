@@ -1,4 +1,4 @@
-f = open("SRCFILE", 'r',encoding="utf-8")
+f = open("2.txt", 'r',encoding="utf-8")
 LISTFILE = open("LISTFILE", 'w',encoding="utf-8")
 OBJFILE = open("OBJFILE", 'w',encoding="utf-8")
 
